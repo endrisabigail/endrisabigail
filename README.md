@@ -1,4 +1,4 @@
-# hi, i'm abigail! 🌸
+# hi! i'm abbie 
 ###### full-stack dev · UNT CS '26  · 3D sculpter 
 i love building things where logic and creativity overlap. by day i'm architecting backends and wiring up APIs; by night i'm sculpting 3D characters in Blender or getting lost in a painting. my projects tend to be a mixture of both: a little cozy, a little gamified, and always user-obsessed. ✨
 
