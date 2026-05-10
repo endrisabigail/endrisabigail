@@ -1,4 +1,4 @@
-# hi! i'm abbie 
+# hi! i'm abbie ヾ(＾ ∇ ＾).
 ###### full-stack dev · UNT CS '26  · 3D sculpter 
 ## 🌷 a little about me
 
