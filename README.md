@@ -31,12 +31,6 @@ currently finishing my B.S. in Computer Science at UNT and gearing up for an int
 
 ---
 
-## 📊 github stats
-
-![Abigail's GitHub stats](https://github-readme-stats.vercel.app/api?username=endrisabigail&show_icons=true&theme=dark&hide_border=true)
-
----
-
 ## 💌 say hi!
 
 [![GitHub](https://img.shields.io/badge/GitHub-endrisabigail-181717?style=flat&logo=github)](https://github.com/endrisabigail)
