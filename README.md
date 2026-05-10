@@ -1,11 +1,5 @@
 # hi! i'm abbie 
 ###### full-stack dev · UNT CS '26  · 3D sculpter 
-i love building things where logic and creativity overlap. by day i'm architecting backends and wiring up APIs; by night i'm sculpting 3D characters in Blender or getting lost in a painting. my projects tend to be a mixture of both: a little cozy, a little gamified, and always user-obsessed. ✨
-
-currently finishing my B.S. in Computer Science at UNT and gearing up for an internship at Palo Alto Networks this summer. always learning, always building!
-
----
-
 ## 🌷 a little about me
 
 - 🎓 B.S. Computer Science @ University of North Texas (Dec 2026)
@@ -31,7 +25,3 @@ currently finishing my B.S. in Computer Science at UNT and gearing up for an int
 
 ---
 
-## 💌 say hi!
-
-[![GitHub](https://img.shields.io/badge/GitHub-endrisabigail-181717?style=flat&logo=github)](https://github.com/endrisabigail)
-[![Email](https://img.shields.io/badge/Email-endrisabigail@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:endrisabigail@gmail.com)
