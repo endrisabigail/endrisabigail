@@ -1,4 +1,4 @@
-# hi! i'm abbie ヾ(＾ ∇ ＾).
+# hi! i'm [abbie](https://endrisabigail.github.io/abbie) ヾ(＾ ∇ ＾).
 ###### full-stack dev · UNT CS '26  · 3D sculpter 
 ## 🌷 a little about me
 
