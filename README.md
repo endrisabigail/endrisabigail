@@ -5,7 +5,7 @@
 - 🎓 B.S. Computer Science @ University of North Texas (Dec 2026)
 - 🔐 incoming Systems Engineer Intern @ Palo Alto Networks
 - 🎮 i make cozy, gamified apps in my free time
-- 🎨 digital & oil painter when i need a break from screens
+- 🎨 oil painter & ice skater when i need a break from screens!
 
 ---
 
