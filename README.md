@@ -1,15 +1,13 @@
 # hi! i'm [abbie](https://endrisabigail.github.io/abbie) ヾ(＾ ∇ ＾).
 ###### full-stack dev · UNT CS '26  · 3D sculpter 
-## 🌷 a little about me
+## a little about me
 
 - 🎓 B.S. Computer Science @ University of North Texas (Dec 2026)
-- 🔐 incoming Systems Engineer Intern @ Palo Alto Networks
-- 🎮 i make cozy, gamified apps in my free time
-- 🎨 oil painter & ice skater when i need a break from screens!
-
+- 🔐 incoming Associate Systems Engineer @ Palo Alto Networks
+- 🎮 i make gamified apps in my free time !
 ---
 
-## 🛠️ stack
+## stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
