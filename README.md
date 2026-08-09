@@ -2,7 +2,7 @@
 ###### full-stack dev · UNT CS '26  · 3D sculpter 
 ## a little about me
 
-- 🎓 B.S. Computer Science @ University of North Texas (Dec 2026)
+- 🎓 B.S. in Computer Science @ University of North Texas (Dec 2026)
 - 🔐 incoming Associate Systems Engineer @ Palo Alto Networks
 - 🎮 i make gamified apps in my free time !
 ---
