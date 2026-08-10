@@ -3,7 +3,6 @@
 ## a little about me
 
 - 🎓 B.S. in Computer Science @ the University of North Texas (Dec 2026)
-- 🔐 incoming Associate Systems Engineer @ Palo Alto Networks
 - 🎮 i make gamified apps in my free time !
 ---
 
