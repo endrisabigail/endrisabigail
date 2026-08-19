@@ -1,5 +1,5 @@
 # hi! i'm [abbie](https://endrisabigail.github.io/abbie) ヾ(＾ ∇ ＾).
-###### full-stack dev · systems & networking · UNT CS '26 · 3D sculptor
+###### full-stack dev · systems & networking · game developer · UNT CS '26 · 3D sculptor
 ## a little about me
 
 - 🎓 B.S. in Computer Science @ the University of North Texas (Dec 2026)
