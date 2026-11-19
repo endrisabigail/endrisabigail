@@ -1,27 +1,34 @@
-# hi! i'm [abbie](https://endrisabigail.github.io/abbie) ヾ(＾ ∇ ＾).
-###### full-stack dev · systems & networking · game developer · UNT CS '26 · 3D sculptor
-## a little about me
+cat > README.md <<'EOF'
+# abbie's portfolio ✧
 
-- 🎓 B.S. in Computer Science @ the University of North Texas (Dec 2026)
-- 🎮 i make gamified apps in my free time !
+### live at [endrisabigail.github.io/abbie](https://endrisabigail.github.io/abbie) ヾ(＾ ∇ ＾).
+
+my portfolio, starring a 3D sculpt of me that waves when you visit ! it has my projects, my internship at palo alto networks, and write-ups on how i designed and built things like koda and hearth.
+
 ---
 
-## stack
+## built with
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
+![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-000000?style=flat&logo=threedotjs&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
-![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat&logo=firebase&logoColor=black)
-
+![Nomad Sculpt](https://img.shields.io/badge/Nomad_Sculpt-6C5CE7?style=flat)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ---
 
+## what's inside
+
+- 🎓 **academic + internship experience**
+- 🧸 **koda & hearth**, with the 3D characters i sculpted (you can spin them around !)
+- 🛠️ **process posts** with wireframes, screenshots, and nomad sculpting recordings
+- 👋 **3D me**, sculpted in nomad. she has no rig, so the wave is coded by pivoting the arm at the shoulder and bending the sleeve at the elbow
+
+---
+
+## say hi
+
+[linkedin](https://linkedin.com/in/abigail-endris) · [github](https://github.com/endrisabigail) · endrisabigail@gmail.com
+EOF
