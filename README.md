@@ -16,11 +16,11 @@
 
 ## ⋆˙⟡ a little about me
 
-- 🎓 B.S. in Computer Science @ the University of North Texas (Dec 2026)
-- 🛡️ systems engineer intern @ palo alto networks (summer 2026)
-- 🎮 i make gamified apps in my free time !
-- 🧸 i sculpt the 3D characters that live inside them
-- 💌 open to new grad roles !
+- B.S. in Computer Science @ the University of North Texas (Dec 2026)
+- systems engineer intern @ palo alto networks (summer 2026)
+- i make gamified apps in my free time !
+- i sculpt the 3D characters that live inside them
+- open to new grad roles !
 
 ---
 
@@ -28,9 +28,14 @@
 
 | project | what it is |
 | --- | --- |
-| 🐻 [**koda**](https://endrisabigail.github.io/abbie/#/projects/koda) | tamagotchi-inspired baby tracker with 3D animal buddies + day/night habitats (UNT capstone, UI/UX developer) |
-| 🐸 [**hearth**](https://endrisabigail.github.io/abbie/#/projects/hearth) | gamified project management in a real-time 3D plaza, with an AI companion |
-| 👋 [**portfolio**](https://endrisabigail.github.io/abbie) | starring a 3D sculpt of me that waves at you |
+| [**hearth**](https://endrisabigail.github.io/abbie/#/projects/hearth) | gamified project management in a real-time 3D plaza, with an AI companion |
+| [**portfolio**](https://endrisabigail.github.io/abbie) | starring a 3D sculpt of me that waves at you |
+
+---
+
+## ⋆˙⟡ collaborations 
+| project | what it is |
+| [**koda**](https://endrisabigail.github.io/abbie/#/projects/koda) | tamagotchi-inspired baby tracker with 3D animal buddies + day/night habitats (UNT capstone, team's UI/UX developer) |
 
 ---
 
