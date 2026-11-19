@@ -35,6 +35,7 @@
 
 ## ⋆˙⟡ collaborations 
 | project | what it is |
+| --- | --- |
 | [**koda**](https://endrisabigail.github.io/abbie/#/projects/koda) | tamagotchi-inspired baby tracker with 3D animal buddies + day/night habitats (UNT capstone, team's UI/UX developer) |
 
 ---
