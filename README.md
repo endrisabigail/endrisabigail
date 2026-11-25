@@ -30,13 +30,17 @@
 | --- | --- |
 | [**hearth**](https://endrisabigail.github.io/abbie/#/projects/hearth) | gamified project management in a real-time 3D plaza, with an AI companion |
 | [**portfolio**](https://endrisabigail.github.io/abbie) | starring a 3D sculpt of me that waves at you |
+| [**quecourt**](https://endrisabigail.github.io/abbie/#/projects/quecourt) | relational database + schema design for a multi-facility federal court system |
+| [**firewall**](https://endrisabigail.github.io/abbie/#/projects/firewall) | palo alto PA-415 setup with NAT, zone-based security policies + slack alerts for guest network joins (internship project) |
 
 ---
 
-## ⋆˙⟡ collaborations 
+## ⋆˙⟡ collaborations
 | project | what it is |
 | --- | --- |
-| [**koda**](https://endrisabigail.github.io/abbie/#/projects/koda) | tamagotchi-inspired baby tracker with 3D animal buddies + day/night habitats (UNT capstone, team's UI/UX developer) |
+| [**koda**](https://endrisabigail.github.io/abbie/#/projects/koda) | tamagotchi-inspired baby tracker with 3D animal buddies + day/night habitats (UNT capstone, team's UI/UX developer, QA tester & team developer) |
+
+<sub>→ [see all my projects](https://endrisabigail.github.io/abbie/#/projects)</sub>
 
 ---
 
@@ -48,6 +52,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **web**
 <br/>
